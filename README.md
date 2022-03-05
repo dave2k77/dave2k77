@@ -7,7 +7,7 @@ I am a mathematician and scientist, a technologist and a futurist, and a contemp
 # MY ACADEMIC AND PROFESSIONAL BACKGROUND
 
 <p>
-My academic background is extensively mathematical with a focus on pure mathematics, computer science and theoretical physics involving research in complex differential equations, special functions in mathematics physics and black-hole geometries in curved spacetimes.
+My academic background is extensively mathematical with a focus on pure mathematics, computer science and theoretical physics. I have researched complex differential equations, special functions in mathematics physics and black-hole geometries in curved spacetimes.
 </p>
 <p>
 I am currently working on a master's degree in computer science. I am working with advanced analytical techniques and technologies for big data and developing artificial intelligence and machine learning models for image analysis and classification. In addition, I am interested in creating deep learning models, neural networks and computer vision applications for "smart" and sustainable communities development.
