@@ -5,7 +5,7 @@ I am a mathematician and scientist, a technologist and a futurist, and a contemp
 </p>
 <p>
   <ul>
-    <li>Quick and efficient learner; driven and self-motivated to get things done</li>
+    <li>Quick and efficient learner; self-motivated to get things done</li>
     <li>Self-starter and focused, process-oriented, meticulous with an eye for optimisation</li>
     <li>Analytical disposition; systems and design thinker</li>
     <li>Risk-taker where logic and data analytics supports it</li>
