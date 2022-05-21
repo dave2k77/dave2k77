@@ -11,7 +11,7 @@ I am a mathematician and scientist, a technologist and a futurist, and a contemp
   </ul>
 </p>
 
-# MY ACADEMIC AND PROFESSIONAL BACKGROUND
+# ACADEMIC AND PROFESSIONAL BACKGROUND
 
 <p>
 My academic background is extensively mathematical with a focus on pure mathematics, computer science and theoretical physics. I have researched complex differential equations, special functions in mathematics physics and black-hole geometries in curved spacetimes.
@@ -23,7 +23,7 @@ I am currently working on a master's degree in computer science. I am working wi
 I am also a teacher at heart. I believe that educational systems, learning paradigms, and assessment methods should reflect the technological era in which we live and reflect the nature and characteristics of the local international community. This philosophy has led me to complete a master of arts degree in education. I focused my efforts on understanding the impact of computational thinking on student achievement and motivation and using systems thinking, analysis and design to leverage the full benefits of educational technology in strategic academic development.
 </p>
 
-# CURRENT AND NOTABLE SKILLS AND PROFESSIONAL KNOWLEDGE
+# PROFESSIONAL AND TECHNICAL SKILLS AND KNOWLEDGE
 
 <p>
   <ul>
@@ -32,6 +32,6 @@ I am also a teacher at heart. I believe that educational systems, learning parad
     <li>Mathematics & Science Research and Research Methodology</li>
     <li>Programming in C/C++, Python, Octave and R</li>
     <li>Machine Learning Algorithms & Mathematics for Machine Learning</li>
-    <li>Artificial Intelligence & Deep Learning with TensorFlow/Keras and MXNet</li>
+    <li>Artificial Intelligence & Deep Learning with TensorFlow/Keras, PyTorch and MXNet</li>
   </ul>
 </p>
