@@ -28,10 +28,13 @@ I am also a teacher at heart. I believe that educational systems, learning parad
 <p>
   <ul>
     <li>Mathematical & Statistical Analysis and Modelling</li>
+    <li>Nonlinear Dynamic Systems Analysis and Modelling</li>
+    <li>Functional Analysis,  Measure Theory and Topological Spaces</li>
     <li>Scientific Computing & Data Science</li>
-    <li>Mathematics & Science Research and Research Methodology</li>
+    <li>Mathematics, Science & Engineering Research Design and Methodology</li>
     <li>Programming in C/C++, Python, Octave and R</li>
     <li>Machine Learning Algorithms & Mathematics for Machine Learning</li>
     <li>Artificial Intelligence & Deep Learning with TensorFlow/Keras, PyTorch and MXNet</li>
+    <li>Geometry Aware Physics-Informed Neural Network (GAPINN) Models</li>
   </ul>
 </p>
