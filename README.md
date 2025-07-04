@@ -1,40 +1,61 @@
 # ABOUT ME
 
 <p>
-I am a mathematician and scientist, a technologist and a futurist, and a contemporary thinker in mathematics, science and computing education. My passion is exploring the world, searching for its mysteries, and discovering its hidden patterns. This passion has driven me to study mathematics, physics, and computer science and use the concepts and techniques I have learned to solve problems. I look to a future of significant advancement in technological innovation underpinned by new mathematics, breakthrough physics, and novel computing capabilities.
+I am a computational scientist and scientific machine learning researcher working at the intersection of mathematics, physics, machine learning, biomedical engineering, and cybernetics. My work involves developing mathematical and computational models for detecting and characterising long-range dependence and scale-free dynamics signatures in neural time series data, particularly in EEG time series contaminated with non-stationary drifts and heavy-tailed amplitude bursts, where long-range dependence and heavy-tailed behaviour are present and correlate with neural dynamics and neurological disease progression.
+
+In particular, I am interested in:
+<ul>
+      <li> Neural fractional stochastic differential equations (fSDE) network models for generating EEG time series data with long-range dependence and heavy-tail amplitude fluctuations, and estimating persistence (memory) in EEG time series.
+      <li> Physics-based machine learning estimators for detecting and characterising long-range dependence and heavy-tail distribution signatures in EEG time series with irregular sampling and weak heteroskedasticity.
+</ul>
 </p>
-<p>
+
+# ACADEMIC BACKGROUND
+
+## Academic
+My academic background is heavily mathematical, with a focus on pure and applied mathematics, computer science, theoretical physics, and bioengineering. In particular, 
   <ul>
-    <li>Quick and efficient learner; self-motivated to get things done</li>
-    <li>Self-starter and focused, process-oriented, meticulous with an eye for optimisation</li>
-    <li>Analytical disposition; systems and design thinker</li>
-  </ul>
-</p>
+    <li> real and complex analysis; measure theory
+    <li> functional analysis and operator theory
+    <li> general topology and differentiable manifolds
+    <li> ordinary and partial differential equations - neural ODEs
+    <li> stochastic processes, stochastic differential equations and neural fSDEs
+    <li> fractional calculus, fractional-order differential equations, and fractional neural networks 
+    <li> machine learning algorithms - neural networks and operator networks
+    <li> statistical analysis & distributions - heavy-tail distributions
+    <li> numerical and computational methods
+</ul>
+    
+## Education
+**PhD, Biomedical Engineering**
+University of Reading, Reading, United Kingdom | on-going (expected 2028)
 
-# ACADEMIC AND PROFESSIONAL BACKGROUND
+-   **Focus**: *Physics-informed machine learning models for detecting and characterising long-range dependence and heavy-tail signatures in neural time series data*
+-   **Core studies**: Fractional Calculus & Fractional-Order Differential Equations, Stochastic Processes & Stochastic Differential Equations, Time Series Analysis & Forecasting, Functional Analysis, Numerical Methods, Statistical Analysis & Heavy-Tail Distributions, Graph & Physics-informed Neural Network Models.
 
-<p>
-My academic background is extensively mathematical with a focus on pure mathematics, computer science and theoretical physics. I have researched complex differential equations, special functions in mathematics physics and black-hole geometries in curved spacetimes.
-</p>
-<p>
-I am currently working on a master's degree in computer science. I am working with advanced analytical techniques and technologies for big data and developing artificial intelligence and machine learning models for image analysis and classification. In addition, I am interested in creating deep learning models, neural networks and computer vision applications for "smart" and sustainable communities development.
-</p>
-<p>
-I am also a teacher at heart. I believe that educational systems, learning paradigms, and assessment methods should reflect the technological era in which we live and reflect the nature and characteristics of the local international community. This philosophy has led me to complete a master of arts degree in education. I focused my efforts on understanding the impact of computational thinking on student achievement and motivation and using systems thinking, analysis and design to leverage the full benefits of educational technology in strategic academic development.
-</p>
+**MSc, Computer Science**
+University of East London, London, United Kingdom | 2023
 
-# PROFESSIONAL AND TECHNICAL SKILLS AND KNOWLEDGE
+-   **Focus**: *Physics-informed machine learning models for modelling heat transfer diffusion models in solids*
+-   **Core studies**: Ordinary & Partial Differential Equations, Generalised 2D Heat Equation, Numerical Methods for PDEs, Artificial Intelligence & Machine Vision , Big Data Analytics & Machine Learning, Advanced Software Engineering, Cloud Computing.
 
-<p>
-  <ul>
-    <li>Mathematical & Statistical Analysis and Modelling</li>
-    <li>Nonlinear Dynamic Systems Analysis and Modelling</li>
-    <li>Functional Analysis,  Measure Theory and Topological Spaces</li>
-    <li>Scientific Computing & Data Science</li>
-    <li>Mathematics, Science & Engineering Research Design and Methodology</li>
-    <li>Programming in C/C++, Python, Octave and R</li>
-    <li>Machine Learning Algorithms & Mathematics for Machine Learning</li>
-    <li>Artificial Intelligence & Deep Learning with TensorFlow/Keras, PyTorch and MXNet</li>
-    <li>Geometry Aware Physics-Informed Neural Network (GAPINN) Models</li>
-  </ul>
-</p>
+**MA, Education**
+University of South Wales, Wales, United Kingdom | 2018
+
+-   **Focus**: *Integrating computational thinking, cross-curricular approaches, and real-world authenticity in mathematics education frameworks*
+-   **Core studies**: Managing Teaching, Learning and Assessment, Integrating ICT into the Teaching and Learning Processes, Understanding Learning Difficulties and Disabilities, Research Methodology for Education, Education Dissertation
+
+**BSc, Mathematics, Computer Science**
+University of the West Indies, St. Andrew, Jamaica | 2008
+
+-   **Focus**: *Pure & Applied Mathematics with Applications in Mathematical Modelling and Operations Research; Computational Thinking and Modelling with Applications to Real-World Systems*
+-   **Core studies**: Real & Complex Analysis, Number Theory, Linear Algebra, Probability & Statistics, Differential Equations, Computer Programming, Software Engineering, Systems Engineering, Database Systems, Network Systems, Intelligent Systems.
+
+# PROFESSIONAL AND TECHNICAL SKILLS
+
+**Programming & Tools**: Python, LaTeX, Markdown, MATLAB, R, C/C++, Git, Bash Scripting, SQL
+
+**Scientific Computing**: Numerical Methods, Process Simulation, Data Analysis, Statistical Methods, Machine Learning Algorithms, Synthetic Data Generation
+
+**Research**: Scientific/Technical Writing, Literature Reviews, Research Paper Analysis, Poster Design, Curriculum Design
+
