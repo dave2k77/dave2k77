@@ -26,20 +26,20 @@ My academic background is heavily mathematical, with a focus on pure and applied
 **PhD, Biomedical Engineering**
 University of Reading, Reading, United Kingdom | on-going (expected 2028)
 
--   **Focus**: *Physics-informed machine learning models for detecting and characterising long-range dependence and heavy-tail signatures in neural time series data*
--   **Core studies**: Fractional Calculus & Fractional-Order Differential Equations, Stochastic Processes & Stochastic Differential Equations, Time Series Analysis & Forecasting, Functional Analysis, Numerical Methods, Statistical Analysis & Heavy-Tail Distributions, Graph & Physics-informed Neural Network Models.
+-   **Focus**: *Modelling of neural criticality in brain networks and biomarker analysis using fractional function spaces (Sobolev-Slobodeckij and Besov spaces), as well as multiscale physics- and biophysics-informed fractional neural operator learning*
+-   **Core Studies**: Functional Analysis (fractional function spaces), Fractional Calculus & Fractional-Order Differential Equations, Stochastic Processes & Stochastic Differential Equations, Time Series Analysis & Forecasting, Statistical Analysis & Heavy-Tail Distributions, Graph & Physics-informed Neural Network Models, Differentiable and Probabilistic Programming.
 
 **MSc, Computer Science**
 University of East London, London, United Kingdom | 2023
 
 -   **Focus**: *Physics-informed machine learning models for modelling heat transfer diffusion models in solids*
--   **Core studies**: Ordinary & Partial Differential Equations, Generalised 2D Heat Equation, Numerical Methods for PDEs, Artificial Intelligence & Machine Vision , Big Data Analytics & Machine Learning, Advanced Software Engineering, Cloud Computing.
+-   **Core Studies**: Ordinary & Partial Differential Equations, Generalised 2D Heat Equation, Numerical Methods for PDEs, Artificial Intelligence & Machine Vision , Big Data Analytics & Machine Learning, Advanced Software Engineering, Cloud Computing.
 
 **MA, Education**
 University of South Wales, Wales, United Kingdom | 2018
 
 -   **Focus**: *Integrating computational thinking, cross-curricular approaches, and real-world authenticity in mathematics education frameworks*
--   **Core studies**: Managing Teaching, Learning and Assessment, Integrating ICT into the Teaching and Learning Processes, Understanding Learning Difficulties and Disabilities, Research Methodology for Education, Education Dissertation
+-   **Core Studies**: Managing Teaching, Learning and Assessment, Integrating ICT into the Teaching and Learning Processes, Understanding Learning Difficulties and Disabilities, Research Methodology for Education, Education Dissertation
 
 **BSc, Mathematics, Computer Science**
 University of the West Indies, St. Andrew, Jamaica | 2008
@@ -51,7 +51,7 @@ University of the West Indies, St. Andrew, Jamaica | 2008
 
 **Programming & Tools**: Python, LaTeX, Markdown, MATLAB, R, C/C++, Git, Bash Scripting, SQL
 
-**Scientific Computing**: Numerical Methods, Process Simulation, Data Analysis, Statistical Methods, Machine Learning Algorithms, Synthetic Data Generation
+**Scientific Computing**: Differentiable and Probabilistic Programming, Scientific Programming & Simulation, Statistical Programming & Data Analysis, Machine Learning Algorithms, Optimisation Techniques.
 
 **Research**: Scientific/Technical Writing, Literature Reviews, Research Paper Analysis, Poster Design, Curriculum Design
 
