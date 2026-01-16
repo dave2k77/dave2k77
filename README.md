@@ -1,13 +1,9 @@
 # ABOUT ME
 
 <p>
-I am a computational scientist and scientific machine learning researcher working at the intersection of mathematics, physics, machine learning, biomedical engineering, and cybernetics. My work involves developing mathematical and computational models for detecting and characterising long-range dependence and scale-free dynamics signatures in neural time series data, particularly in EEG time series contaminated with non-stationary drifts and heavy-tailed amplitude bursts, where long-range dependence and heavy-tailed behaviour are present and correlate with neural dynamics and neurological disease progression.
+I am a Biomedical Engineering researcher at the University of Reading, specialising in functional analysis, scientific machine learning, and brain network dynamics. My work advances the modelling of neural criticality in brain networks and biomarker analysis using fractional function spaces (Sobolev-Slobodeckij and Besov spaces), as well as multiscale physics- and biophysics-informed fractional neural operator learning. I am interested in developing a generalised mathematical framework for describing open, dissipative, and nonequilibrium dynamical systems with long memory and multifractal properties, such as neural criticality observed in brain networks, and in using differentiable and probabilistic programming to develop innovative neural architectures for ground-truth generation and simulation of such phenomena.
 
-In particular, I am interested in:
-<ul>
-      <li> Neural fractional stochastic differential equations (fSDE) network models for generating EEG time series data with long-range dependence and heavy-tail amplitude fluctuations, and estimating persistence (memory) in EEG time series.
-      <li> Physics-based machine learning estimators for detecting and characterising long-range dependence and heavy-tail distribution signatures in EEG time series with irregular sampling and weak heteroskedasticity.
-</ul>
+As a STEM educator with 16 years of experience, I excel in educational leadership, machine learning applications, and technology-driven curricula across the US, UK, and Caribbean systems. I promote the development of analytical skills through technology-integrated teaching and seek positions in mathematics, physics, or computer science education.
 </p>
 
 # ACADEMIC BACKGROUND
