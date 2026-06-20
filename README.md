@@ -1,7 +1,7 @@
 # ABOUT ME
 
 <p>
-I am a Biomedical Engineering researcher at the University of Reading, specialising in functional analysis, scientific machine learning, and brain network dynamics. My work advances the modelling of neural criticality in brain networks and biomarker analysis using fractional function spaces (Sobolev-Slobodeckij and Besov spaces), as well as multiscale physics- and biophysics-informed fractional neural operator learning. I am interested in developing a generalised mathematical framework for describing open, dissipative, and nonequilibrium dynamical systems with long memory and multifractal properties, such as neural criticality observed in brain networks, and in using differentiable and probabilistic programming to develop innovative neural architectures for ground-truth generation and simulation of such phenomena.
+I am a scientific machine learning researcher studying physics and biological machine learning models that accurately mimic critical brain dynamics, as well as function-theoretic frameworks that effectively model the long-range dependence structure and scale-free dynamics signatures associated with neural signals originating in critical brain networks. This interdisciplinary approach combines the study of critical brain dynamics through the lens of functional analysis and operator theory, measure theory, fractional calculus, and multiscale dynamical systems, together with computational models based on differentiable and probabilistic programming, and brain- and physics- inspired neural network models.
 
 As a STEM educator with 16 years of experience, I excel in educational leadership, machine learning applications, and technology-driven curricula across the US, UK, and Caribbean systems. I promote the development of analytical skills through technology-integrated teaching and seek positions in mathematics, physics, or computer science education.
 </p>
@@ -14,10 +14,10 @@ My academic background is heavily mathematical, with a focus on pure and applied
     <li> real and complex analysis; measure theory
     <li> functional analysis and operator theory
     <li> general topology and differentiable manifolds
-    <li> ordinary and partial differential equations - neural ODEs
+    <li> ordinary and partial differential equations - neural fractional ODEs and SDEs
     <li> stochastic processes, stochastic differential equations and neural fSDEs
     <li> fractional calculus, fractional-order differential equations, and fractional neural networks 
-    <li> machine learning algorithms - neural networks and operator networks
+    <li> physics-informed machine learning and deep neural operator networks
     <li> statistical analysis & distributions - heavy-tail distributions
     <li> numerical and computational methods
 </ul>
@@ -53,5 +53,5 @@ University of the West Indies, St. Andrew, Jamaica | 2008
 
 **Scientific Computing**: Differentiable and Probabilistic Programming, Scientific Programming & Simulation, Statistical Programming & Data Analysis, Machine Learning Algorithms, Optimisation Techniques.
 
-**Research**: Scientific/Technical Writing, Literature Reviews, Research Paper Analysis, Poster Design, Curriculum Design
+**Research**: Scientific/Technical Writing, Literature Reviews, Research Paper Analysis, Poster Design, Curriculum Design, Agentic Software Engineering and Research.
 
